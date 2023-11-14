@@ -1,0 +1,22 @@
+{
+   "name": "discordbot",
+   "version": "1.0.0",
+   "description": "Discord bot template",
+   "main": "bot.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "type": "module",
+   "keywords": [
+      "Hobby"
+   ],
+   "author": "Imgyeong Lee",
+   "license": "MIT",
+   "dependencies": {
+      "@discordjs/core": "^1.0.1",
+      "discord.js": "^14.13.0",
+      "dotenv": "^16.3.1",
+      "google-auth-library": "^9.2.0",
+      "google-spreadsheet": "^4.1.1"
+   }
+}
